@@ -1,3 +1,16 @@
-body {
-  font-family: "Raleway", sans-serif;
+// <weight>: Use a value from 100 to 900
+// <uniquifier>: Use a unique and descriptive class name
+
+.elms-sans-<uniquifier> {
+  font-family: "Elms Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#Mi-educación {
+  background-image: url("assets/img/Imagen2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
 }
