@@ -1,5 +1,3 @@
-// <weight>: Use a value from 100 to 900
-// <uniquifier>: Use a unique and descriptive class name
 
 .elms-sans-<uniquifier> {
   font-family: "Elms Sans", sans-serif;
@@ -13,4 +11,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+#my-3 {
+text
 }
