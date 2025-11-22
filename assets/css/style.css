@@ -6,15 +6,23 @@
   font-style: normal;
 }
 
-#Mi-educación {
+#Mi-presentación {
   background-image: url("https://jguzgaj.github.io/Portafolio/assets/img/2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
-.h5 {
- font-family: "Elms Sans", sans-serif;text
+
+#Mi-portafolio {
+ background-color: rgb(209, 107, 60);
+text-align: center;
+}
+
+#Contacto {
+ background-color: rgb(219, 215, 206);
+text-align: center;
 }
 
 .footer {
+text-align: center;
 }
